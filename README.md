@@ -6,7 +6,6 @@
 
 <h2>Poke Api</h2>
 ![image](https://github.com/Miliros/Miliros/assets/109630093/368ef3f2-e74c-4a6f-9f8a-94a666de6521)
-s
 ![image](https://github.com/Miliros/Miliros/assets/109630093/cdc6fd2a-4a73-4068-89ff-614a24dd7178)
 
 Rick and Morty
@@ -21,7 +20,7 @@ Rick and Morty
 
 
 
-<h2>SKILLS:</h2>h2>
+<h2>SKILLS:</h2>
 
 
 
