@@ -18,6 +18,7 @@ The user can search for a character, filter by gender, sort alphabetically and a
    <img  src="https://github-production-user-asset-6210df.s3.amazonaws.com/109630093/260580388-84c2fabf-77e1-4952-94a6-c322e182d69d.png" alt="imagen2"  />
 
 <h2>SKILLS:</h2>
+<img src="https://1000marcas.net/wp-content/uploads/2020/11/JavaScript-logo.png" alt="imgg" height="70px" width="70px"/>
 
 
 
