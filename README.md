@@ -20,7 +20,7 @@ The user can search for a character, filter by gender, sort alphabetically and a
 <h2>SKILLS:</h2>
 <img src="https://1000marcas.net/wp-content/uploads/2020/11/JavaScript-logo.png" alt="imgg" height="70px" width="80px"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRL37a98t6tH4jqXJ55nh1N_LGiT0F90ucnWMdXr0Xbw&s" alt="imgg" height="70px" width="80px"/>
-<img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="imgg" height="70px" width="80px/>
+<img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="imggg" height="70px" width="80px/>
 
 
 
