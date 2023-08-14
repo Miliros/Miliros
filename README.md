@@ -4,7 +4,7 @@
  <br/>
 <h2>MY PROJECTS:</h2>
 <h2>Poke Api</h2>
-<img src"https://github.com/Miliros/Miliros/assets/109630093/368ef3f2-e74c-4a6f-9f8a-94a666de6521"/ >
+<img src"https://github.com/Miliros/Miliros/assets/109630093/368ef3f2-e74c-4a6f-9f8a-94a666de6521" alt=""/ >
 <img src"https://github.com/Miliros/Miliros/assets/109630093/cdc6fd2a-4a73-4068-89ff-614a24dd7178"/ >
 
 <h2>Rick and Morty</h2>
