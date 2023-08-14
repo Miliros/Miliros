@@ -1,6 +1,5 @@
 ### 
-<h1>Hello! I'm Milagros Rosales
- a full stack web developer, focused on front end design. 👋</h1>
+<img src"C:\Users\rosal\Downloads\M.png" alt"imgg"/>
 
 <h2>MY PROJECTS:</h2>
 <h3>Poke Api</h3>
