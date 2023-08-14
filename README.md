@@ -1,11 +1,11 @@
 ### 
-<p>Hello! I'm Milagros Rosales
- a full stack web developer, focused on front end design. 👋</p>
+<h1>Hello! I'm Milagros Rosales
+ a full stack web developer, focused on front end design. 👋</h1>
  <br/>
-<h1>MY PROJECTS:</h1>
+<h2>MY PROJECTS:</h2>
  <br/>
 
-<p>Poke Api</p>
+<h2>Poke Api</h2>
 ![image](https://github.com/Miliros/Miliros/assets/109630093/368ef3f2-e74c-4a6f-9f8a-94a666de6521)
 ![image](https://github.com/Miliros/Miliros/assets/109630093/cdc6fd2a-4a73-4068-89ff-614a24dd7178)
 
@@ -21,7 +21,7 @@ Rick and Morty
 
 
 
-SKILLS:
+<h2>SKILLS:</h2>h2>
 
 
 
