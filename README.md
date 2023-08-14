@@ -22,6 +22,8 @@ The user can search for a character, filter by gender, sort alphabetically and a
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRL37a98t6tH4jqXJ55nh1N_LGiT0F90ucnWMdXr0Xbw&s" alt="imgg" height="70px" width="80px"/>
 <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" alt="imgg" height="70px" width="80px"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="imgg" height="70px" width="80px"/>
+<img src="https://logowik.com/content/uploads/images/nodejs.jpg" alt="imgg" height="70px" width="80px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="imgg" height="70px" width="80px"/>
 
 
 
