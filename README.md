@@ -28,6 +28,7 @@ The user can search for a character, filter by gender, sort alphabetically and a
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="imgg" height="60px" width="70px"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="imgg" height="60px" width="70px"/>
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" alt="imgg" height="60px" width="70px"/>
+   <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" alt="imgg" height="60px" width="70px"/>
 </div>
 
 
