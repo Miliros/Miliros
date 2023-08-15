@@ -1,5 +1,6 @@
 ### 
-![M](https://github.com/Miliros/Miliros/assets/109630093/afee2279-29dd-44ad-8051-2f2f245b5f37)
+
+![M (1)](https://github.com/Miliros/Miliros/assets/109630093/f0402aea-d90b-4a90-8d33-2fd02303e009)
 
 
 <h2>MY PROJECTS:</h2>
