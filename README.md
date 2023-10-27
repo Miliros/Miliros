@@ -17,7 +17,7 @@ The user can create a Pokémon, search for it by name, filter it by type and str
 <p>Integrator project developed within Henry Bootcamp is a SPA that uses React for the Front End and Redux as state management. All components were developed with CSS without the use of external libraries.
 The SPA consumes data from an API ("The Rick and Morty API") through a Back-End developed in Node.JS using Express, adding new features to the original API.
 The user can search for a character, filter by gender, sort alphabetically and add to favorites.</p><a href="https://github.com/Miliros/RICK-AND-MORTY">link to code</a>
-   <img  src="https://github-production-user-asset-6210df.s3.amazonaws.com/109630093/260580146-548f89a3-f72e-415c-bf34-cd78a5df39ff.png" alt="imagen" width="900px" />
+   <img  src="[https://github-production-user-asset-6210df.s3.amazonaws.com/109630093/260580146-548f89a3-f72e-415c-bf34-cd78a5df39ff.png](https://github.com/Miliros/Miliros/assets/109630093/3a80df5a-f4de-4ef6-8fa2-9519264c4b79)" alt="imagen" width="900px" />
    <img  src="https://github-production-user-asset-6210df.s3.amazonaws.com/109630093/260580388-84c2fabf-77e1-4952-94a6-c322e182d69d.png" alt="imagen2"  width="900px"  />
 
 <h2> MY SKILL SET:</h2>
@@ -33,6 +33,8 @@ The user can search for a character, filter by gender, sort alphabetically and a
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" alt="imgg" height="60px" width="70px"/>
    <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" alt="imgg" height="60px" width="70px"/>
 </div>
+
+
 
 
 
