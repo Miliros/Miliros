@@ -2,6 +2,10 @@
 
 ![M (1)](https://github.com/Miliros/Miliros/assets/109630093/f0402aea-d90b-4a90-8d33-2fd02303e009)
 
+<h2>ABOUT ME:</h2>
+<p>Proactive full stack developer, focused on the front-end. Looking for opportunities to enhance my skills and achieve professional success. I stand out for being empathetic, decisive and creative in each project.</p>
+<p style{{margin:"0px"}}> <a href="https://milagros-rosales.vercel.app/"><strong>Portfolio</strong></a></p>
+
 
 <h2>MY PROJECTS:</h2>
 <div style={{ display: "flex", flexDirection:"column"}} >
