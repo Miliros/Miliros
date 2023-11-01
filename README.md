@@ -23,7 +23,16 @@ The user can create a Pokémon, search for it by name, filter it by type and str
 The SPA consumes data from an API ("The Rick and Morty API") through a Back-End developed in Node.JS using Express, adding new features to the original API.
 The user can search for a character, filter by gender, sort alphabetically and add to favorites. <a href="https://github.com/Miliros/RICK-AND-MORTY"><strong>link to code</strong></a></p>
    <img  src="https://github.com/Miliros/Miliros/assets/109630093/3a80df5a-f4de-4ef6-8fa2-9519264c4b79" alt="imagen6" width="900px" />
-   <img  src="https://github.com/Miliros/Miliros/assets/109630093/0d22a876-1f96-4cbe-ac8b-62f22f888c1a" alt="imagen2"  width="900px"  />
+<img  src="https://github.com/Miliros/Miliros/assets/109630093/0d22a876-1f96-4cbe-ac8b-62f22f888c1a" alt="imagen2"  width="900px"  />
+<h3>MSC Amoblamientos</h3>
+<p>MSC API is a Full Stack group project developed during the Henry program. It combines leading technologies to provide a unique online furniture shopping experience.
+On the frontend, uses React, Redux, and Bootstrap for a sleek UI. The backend is powered by Express, managing a PostgreSQL database with Sequelize.
+Auth0 ensures user security with various methods. Cloudinary manages images. MSC API is a feature-rich e-commerce platform for easy furniture search and purchase. Admins can oversee products, materials, orders, and accounts through a robust panel.</p>
+<img src="https://github.com/Miliros/Miliros/assets/109630093/5b6e2906-b56f-482e-9e14-4051cd8069ab" alt="imagen6"  width="900px" />
+ <img src="https://github.com/Miliros/Miliros/assets/109630093/29fa53ee-d84c-475d-aac6-43f17b449cc0" alt="imagen8"  width="900px" />
+  <img src="https://github.com/Miliros/Miliros/assets/109630093/14bc7931-e365-4f51-9803-199ae12deb7d"   style={{marginTop:"6px"}}width="900px" /> 
+
+
 
 
 <h2> MY SKILL SET:</h2>
@@ -39,7 +48,6 @@ The user can search for a character, filter by gender, sort alphabetically and a
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" alt="imgg" height="60px" width="70px"/>
    <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" alt="imgg" height="60px" width="60px"/> -->
 <img src="https://github.com/Miliros/Miliros/assets/109630093/0a27d802-eb97-4adb-a32b-bfd3b69a9310" alt="imagenSkills"  width="900px" />
-
 </div>
 
 
