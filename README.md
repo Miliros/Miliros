@@ -3,8 +3,10 @@
 ![M (1)](https://github.com/Miliros/Miliros/assets/109630093/f0402aea-d90b-4a90-8d33-2fd02303e009)
 
 <h2>ABOUT ME:</h2>
-<p>Proactive full stack developer, focused on the front-end. Looking for opportunities to enhance my skills and achieve professional success. I stand out for being empathetic, decisive and creative in each project.</p>
+<p>Proactive full stack developer with a strong emphasis on front-end development. Actively seeking opportunities to enhance my skills and achieve professional success, I am known for my empathy, decisiveness, and a keen eye for detail. I thrive on creating modern, functional, and visually appealing interfaces that prioritize an exceptional user experience.
+My commitment to staying up-to-date and my passion for continuous learning keep me constantly evolving in the ever-changing world of web development.</p>
 <p style{{margin:"0px"}}> <a href="https://milagros-rosales.vercel.app/"><strong>Portfolio</strong></a></p>
+<p  style{{margin:"0px"}}> <strong>Mail: milagros4046@hotmail.com</strong></p>
 
 
 <h2>MY PROJECTS:</h2>
