@@ -29,7 +29,7 @@ The user can search for a character, filter by gender, sort alphabetically and a
 <h3>MSC Amoblamientos</h3>
 <p>MSC API is a Full Stack group project developed during the Henry program. It combines leading technologies to provide a unique online furniture shopping experience.
 On the frontend, uses React, Redux, and Bootstrap for a sleek UI. The backend is powered by Express, managing a PostgreSQL database with Sequelize.
-Auth0 ensures user security with various methods. Cloudinary manages images. MSC API is a feature-rich e-commerce platform for easy furniture search and purchase. Admins can oversee products, materials, orders, and accounts through a robust panel.</p>
+Auth0 ensures user security with various methods. Cloudinary manages images. MSC API is a feature-rich e-commerce platform for easy furniture search and purchase. Admins can oversee products, materials, orders, and accounts through a robust panel.<a href="https://github.com/AgustinMandarini/MSC-Amoblamientos"><strong>link to code</strong></a></p>
 <img src="https://github.com/Miliros/Miliros/assets/109630093/5b6e2906-b56f-482e-9e14-4051cd8069ab" alt="imagen6"  width="900px" />
  <img src="https://github.com/Miliros/Miliros/assets/109630093/29fa53ee-d84c-475d-aac6-43f17b449cc0" alt="imagen8"  width="900px" />
   <img src="https://github.com/Miliros/Miliros/assets/109630093/14bc7931-e365-4f51-9803-199ae12deb7d"  width="900px" /> 
