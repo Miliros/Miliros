@@ -1,6 +1,6 @@
 ### 
 
-![M (1)](https://github.com/Miliros/Miliros/assets/109630093/f0402aea-d90b-4a90-8d33-2fd02303e009)
+![image](https://github.com/Miliros/Miliros/assets/109630093/b563c75b-9269-4233-8524-4e784cfd9676)
 
 <h2>ABOUT ME:</h2>
 <p>Proactive full stack developer with a strong emphasis on front-end development. Actively seeking opportunities to enhance my skills and achieve professional success, I am known for my empathy, decisiveness, and a keen eye for detail. I thrive on creating modern, functional, and visually appealing interfaces that prioritize an exceptional user experience.
