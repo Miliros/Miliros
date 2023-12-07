@@ -15,8 +15,8 @@ My commitment to staying up-to-date and my passion for continuous learning keep 
 <p>Individual project developed within Henry Bootcamp. It is a SPA that is built using technologies like React and Redux in the Frontend for efficient state management, and CSS modules for style management.
 The SPA consumes data from the external api (“Poke API”) and communicates with a Back End developed in Node.js using Express to handle client requests. The application uses Sequelize to interact with a PostgreSQL database.
 The user can create a Pokémon, search for it by name, filter it by type and strength, as well as sort it alphabetically. <a href="https://github.com/Miliros/PI-POKEMON"><strong>link to code</strong></a></p>
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/109630093/260585477-be87234c-4869-40f6-b740-96a251eaefba.png" alt="imagen3" width="900px"  />
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/109630093/260585522-6d654645-6003-4784-b1a5-94b7fb15216f.png" alt="imagen4" width="900px" />
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/109630093/260585477-be87234c-4869-40f6-b740-96a251eaefba.png" alt="imagen3" width="900px" style={{margin:'6px'}}  />
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/109630093/260585522-6d654645-6003-4784-b1a5-94b7fb15216f.png" alt="imagen4" width="900px" style={{margin:'6px'}} />
    
 </div>
 
