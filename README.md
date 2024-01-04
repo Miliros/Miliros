@@ -6,7 +6,7 @@
 <p>Proactive full stack developer with a strong emphasis on front-end development. Actively seeking opportunities to enhance my skills and achieve professional success, I am known for my empathy, decisiveness, and a keen eye for detail. I thrive on creating modern, functional, and visually appealing interfaces that prioritize an exceptional user experience.
 My commitment to staying up-to-date and my passion for continuous learning keep me constantly evolving in the ever-changing world of web development.</p>
 <p style{{margin:"0px"}}> <a href="https://milagros-rosales.vercel.app/"><strong>Portfolio</strong></a></p>
-<p  style{{margin:"0px"}}> <strong>Mail: milagros4046@hotmail.com</strong></p>
+<p  style{{margin:"0px"}}> <strong>Email: milagros4046@hotmail.com</strong></p>
 
 
 <h2>MY PROJECTS:</h2>
