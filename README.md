@@ -39,7 +39,7 @@ Auth0 ensures user security with various methods. Cloudinary manages images. MSC
 
 <h2> MY SKILL SET:</h2>
 <div style={{ display: "flex", alingItems: "center", marginRight:8px}}>
-<!-- <img src="https://1000marcas.net/wp-content/uploads/2020/11/JavaScript-logo.png" alt="imgg" height="60px" width="70px"/>
+<!-- <img src="https://github.com/Miliros/Miliros/assets/109630093/525adc0f-5ccc-40d7-af15-ad40986fb516" alt="imgg" height="60px" width="70px"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRL37a98t6tH4jqXJ55nh1N_LGiT0F90ucnWMdXr0Xbw&s" alt="imgg" height="60px" width="70px"/>
 <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" alt="imgg" height="60px" width="70px"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="imgg"height="60px" width="70px"/>
