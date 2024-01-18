@@ -39,7 +39,7 @@ Auth0 ensures user security with various methods. Cloudinary manages images. MSC
 
 <h2> MY SKILL SET:</h2>
 <div style={{ display: "flex", alingItems: "center", marginRight:8px}}>
-<!-- <img src="https://github.com/Miliros/Miliros/assets/109630093/525adc0f-5ccc-40d7-af15-ad40986fb516" alt="imgg" height="60px" width="70px"/>
+<!-- <img src="https://github.com/Miliros/Miliros/assets/109630093/47d79593-ccf2-4685-9bf4-2a9295fec12f" alt="imgg" height="60px" width="70px"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRL37a98t6tH4jqXJ55nh1N_LGiT0F90ucnWMdXr0Xbw&s" alt="imgg" height="60px" width="70px"/>
 <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" alt="imgg" height="60px" width="70px"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="imgg"height="60px" width="70px"/>
@@ -49,7 +49,7 @@ Auth0 ensures user security with various methods. Cloudinary manages images. MSC
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="imgg" height="60px" width="70px"/>
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" alt="imgg" height="60px" width="70px"/>
    <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" alt="imgg" height="60px" width="60px"/> -->
-<img src="https://github.com/Miliros/Miliros/assets/109630093/0a27d802-eb97-4adb-a32b-bfd3b69a9310" alt="imagenSkills"  width="900px" />
+<img src="https://github.com/Miliros/Miliros/assets/109630093/c5ea0159-d61d-46ed-8ae2-f8fa7b74f686" alt="imagenSkills"  width="900px" />
 </div>
 
 
