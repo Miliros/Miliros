@@ -11,6 +11,12 @@
 <a href="https://milagros-rosales.vercel.app/" ><strong>Portfolio</strong></a>
 <p > <strong>milagros4046@hotmail.com</strong></p>
 </div>
+<div align="center">
+<h2 align="center">MY SKILL SET:</h2>
+<div align="center">
+<img src="https://github.com/Miliros/Miliros/assets/109630093/c17e27e2-95a8-49a4-8974-f262260e1cd0"  alt="imagenSkills" width="900px"/>
+
+</div>
 <h2 align="center">MY PROJECTS:</h2>
 
   <h3>Poke Api</h3>
@@ -39,12 +45,7 @@
   <img src="https://github.com/Miliros/Miliros/assets/109630093/14bc7931-e365-4f51-9803-199ae12deb7d" width="900px" style="margin: 5px;" />
   <div><a href="https://github.com/AgustinMandarini/MSC-Amoblamientos" style="color: black;"><strong>link to code</strong></a></div>
 </div>
-<div align="center">
-<h2 align="center">MY SKILL SET:</h2>
-<div align="center">
-<img src="https://github.com/Miliros/Miliros/assets/109630093/c17e27e2-95a8-49a4-8974-f262260e1cd0"  alt="imagenSkills" width="900px"/>
 
-</div>
 </div>
 
 
