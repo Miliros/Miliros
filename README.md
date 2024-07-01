@@ -23,6 +23,8 @@
   <div align="center">
 
   <img src="https://github.com/Miliros/Miliros/assets/109630093/5b6e2906-b56f-482e-9e14-4051cd8069ab" alt="imagen6" width="900px" style="margin: 5px;" />
+  <img src="https://github.com/Miliros/Miliros/assets/109630093/1778a97c-79cf-4d17-9516-06e9be0eefc2" alt="imagen6" width="900px" style="margin: 5px;" />
+
   <img src="https://github.com/Miliros/Miliros/assets/109630093/29fa53ee-d84c-475d-aac6-43f17b449cc0" alt="imagen8" width="900px" style="margin: 5px;" />
   <img src="https://github.com/Miliros/Miliros/assets/109630093/14bc7931-e365-4f51-9803-199ae12deb7d" width="900px" style="margin: 5px;" />
   <div><a href="https://github.com/AgustinMandarini/MSC-Amoblamientos" style="color: black;"><strong>link to code</strong></a></div>
