@@ -22,7 +22,6 @@
   <p style="max-width: 300px; margin: 5px;">MSC API is a Full Stack group project. It combines leading technologies to provide a unique online furniture shopping experience. On the frontend, uses React, Redux, and Bootstrap for a sleek UI. The backend is powered by Express, managing a PostgreSQL database with <br/> Sequelize. Auth0 ensures user security with various methods. Cloudinary manages images. MSC API is a feature-rich e-commerce platform for easy furniture search and purchase. Admins can oversee products, materials, orders, and accounts through a robust panel. 
   <div align="center">
 
-  <img src="https://github.com/Miliros/Miliros/assets/109630093/5b6e2906-b56f-482e-9e14-4051cd8069ab" alt="imagen6" width="900px" style="margin: 5px;" />
   <img src="https://github.com/Miliros/Miliros/assets/109630093/1778a97c-79cf-4d17-9516-06e9be0eefc2" alt="imagen6" width="900px" style="margin: 5px;" />
 
   <img src="https://github.com/Miliros/Miliros/assets/109630093/29fa53ee-d84c-475d-aac6-43f17b449cc0" alt="imagen8" width="900px" style="margin: 5px;" />
