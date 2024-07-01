@@ -18,6 +18,15 @@
 
 </div>
 <h2 align="center">MY PROJECTS:</h2>
+ <h3>MSC Amoblamientos</h3>
+  <p style="max-width: 300px; margin: 5px;">MSC API is a Full Stack group project. It combines leading technologies to provide a unique online furniture shopping experience. On the frontend, uses React, Redux, and Bootstrap for a sleek UI. The backend is powered by Express, managing a PostgreSQL database with <br/> Sequelize. Auth0 ensures user security with various methods. Cloudinary manages images. MSC API is a feature-rich e-commerce platform for easy furniture search and purchase. Admins can oversee products, materials, orders, and accounts through a robust panel. 
+  <div align="center">
+
+  <img src="https://github.com/Miliros/Miliros/assets/109630093/5b6e2906-b56f-482e-9e14-4051cd8069ab" alt="imagen6" width="900px" style="margin: 5px;" />
+  <img src="https://github.com/Miliros/Miliros/assets/109630093/29fa53ee-d84c-475d-aac6-43f17b449cc0" alt="imagen8" width="900px" style="margin: 5px;" />
+  <img src="https://github.com/Miliros/Miliros/assets/109630093/14bc7931-e365-4f51-9803-199ae12deb7d" width="900px" style="margin: 5px;" />
+  <div><a href="https://github.com/AgustinMandarini/MSC-Amoblamientos" style="color: black;"><strong>link to code</strong></a></div>
+</div>
 
   <h3>Poke Api</h3>
   <p>It is a SPA that is built using technologies like React and Redux in the Frontend for efficient state management, and CSS modules for style management. The SPA consumes data from the external api (“Poke API”) and communicates with a Back End developed in Node.js using Express to handle client requests. The application uses Sequelize to interact with a PostgreSQL database. The user can create a Pokémon,<br/>  search for it by name, filter it by type and strength, as well as sort it alphabetically. 
@@ -36,15 +45,7 @@
    <div> <a href="https://github.com/Miliros/RICK-AND-MORTY" style="color: black;"><strong>link to code</strong></a></p></div>
 </div>
 
-  <h3>MSC Amoblamientos</h3>
-  <p style="max-width: 300px; margin: 5px;">MSC API is a Full Stack group project. It combines leading technologies to provide a unique online furniture shopping experience. On the frontend, uses React, Redux, and Bootstrap for a sleek UI. The backend is powered by Express, managing a PostgreSQL database with <br/> Sequelize. Auth0 ensures user security with various methods. Cloudinary manages images. MSC API is a feature-rich e-commerce platform for easy furniture search and purchase. Admins can oversee products, materials, orders, and accounts through a robust panel. 
-  <div align="center">
-
-  <img src="https://github.com/Miliros/Miliros/assets/109630093/5b6e2906-b56f-482e-9e14-4051cd8069ab" alt="imagen6" width="900px" style="margin: 5px;" />
-  <img src="https://github.com/Miliros/Miliros/assets/109630093/29fa53ee-d84c-475d-aac6-43f17b449cc0" alt="imagen8" width="900px" style="margin: 5px;" />
-  <img src="https://github.com/Miliros/Miliros/assets/109630093/14bc7931-e365-4f51-9803-199ae12deb7d" width="900px" style="margin: 5px;" />
-  <div><a href="https://github.com/AgustinMandarini/MSC-Amoblamientos" style="color: black;"><strong>link to code</strong></a></div>
-</div>
+ 
 
 </div>
 
