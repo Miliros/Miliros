@@ -1,54 +1,102 @@
-### 
-
 ![M](https://github.com/Miliros/Miliros/assets/109630093/9272fbdd-ef51-4408-a13b-1ca175662991)
+Proactive full stack developer with a strong emphasis on front-end development. Actively seeking opportunities to enhance my skills and achieve professional success. Known for empathy, decisiveness, and a keen eye for detail, I thrive on creating modern, functional, and visually appealing interfaces that prioritize an exceptional user experience.
 
+🌐 **Contact me:** milagros4046@hotmail.com  
+🌐 **Portfolio:** [milagros-rosales.vercel.app](https://milagros-rosales.vercel.app)
 
+---
 
-<h2 align="center">ABOUT ME:</h2>
-<div>
-<p style={{width: "50px", margin: "5px"}}>Proactive full stack developer with a strong emphasis on front-end development. 
- <br/> Actively seeking opportunities to enhance my skills and achieve professional success, I am known for my empathy, decisiveness, and a keen eye for detail. I thrive on creating modern, functional, and visually appealing interfaces that prioritize an exceptional user experience. My commitment to staying up-to-date and my passion for continuous learning keep me constantly evolving in the ever-changing world of web development.</p>
-<a href="https://milagros-rosales.vercel.app/" ><strong>Portfolio</strong></a>
-<p > <strong>milagros4046@hotmail.com</strong></p>
-</div>
-<div align="center">
-<h2 align="center">MY SKILL SET:</h2>
-<div align="center">
-<img src="https://github.com/Miliros/Miliros/assets/109630093/c17e27e2-95a8-49a4-8974-f262260e1cd0"  alt="imagenSkills" width="900px"/>
+##  My Skill Set:
+<p align="center">
+  <img src="https://github.com/Miliros/Miliros/assets/109630093/c17e27e2-95a8-49a4-8974-f262260e1cd0" alt="Skill Set" width="800px">
+</p>
 
-</div>
-<h2 align="center">MY PROJECTS:</h2>
- <h3>MSC Amoblamientos</h3>
-  <p style="max-width: 300px; margin: 5px;">MSC API is a Full Stack group project. It combines leading technologies to provide a unique online furniture shopping experience. On the frontend, uses React, Redux, and Bootstrap for a sleek UI. The backend is powered by Express, managing a PostgreSQL database with <br/> Sequelize. Auth0 ensures user security with various methods. Cloudinary manages images. MSC API is a feature-rich e-commerce platform for easy furniture search and purchase. Admins can oversee products, materials, orders, and accounts through a robust panel. 
-  <div align="center">
+---
 
-  <img src="https://github.com/Miliros/Miliros/assets/109630093/1778a97c-79cf-4d17-9516-06e9be0eefc2" alt="imagen6" width="900px" style="margin: 5px;" />
+##  My Projects:
 
-  <img src="https://github.com/Miliros/Miliros/assets/109630093/29fa53ee-d84c-475d-aac6-43f17b449cc0" alt="imagen8" width="900px" style="margin: 5px;" />
-  <img src="https://github.com/Miliros/Miliros/assets/109630093/14bc7931-e365-4f51-9803-199ae12deb7d" width="900px" style="margin: 5px;" />
-  <div><a href="https://github.com/AgustinMandarini/MSC-Amoblamientos" style="color: black;"><strong>link to code</strong></a></div>
-</div>
+### 1. **MSC Amoblamientos**
+Feature-rich e-commerce platform for furniture shopping, with robust admin tools and user-friendly interfaces.
 
-  <h3>Poke Api</h3>
-  <p>It is a SPA that is built using technologies like React and Redux in the Frontend for efficient state management, and CSS modules for style management. The SPA consumes data from the external api (“Poke API”) and communicates with a Back End developed in Node.js using Express to handle client requests. The application uses Sequelize to interact with a PostgreSQL database. The user can create a Pokémon,<br/>  search for it by name, filter it by type and strength, as well as sort it alphabetically. 
-  <div align="center">
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/109630093/260585477-be87234c-4869-40f6-b740-96a251eaefba.png" alt="imagen3" width="900px" style="margin: 5px;" />
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/109630093/260585522-6d654645-6003-4784-b1a5-94b7fb15216f.png" alt="imagen4" width="900px" style="margin: 5px;" />
-    <div><a href="https://github.com/Miliros/PI-POKEMON" color="black"><strong>link to code</strong></a></div>
-</div>
+- **Frontend:** React, Redux, Bootstrap  
+- **Backend:** Express.js, Sequelize, PostgreSQL  
+- **Other Technologies:** Auth0 (security), Cloudinary (image handling)
 
+<p align="center">
+  <img src="https://github.com/Miliros/Miliros/assets/109630093/1778a97c-79cf-4d17-9516-06e9be0eefc2" alt="MSC Screenshot 1" width="800px">
+  <img src="https://github.com/Miliros/Miliros/assets/109630093/29fa53ee-d84c-475d-aac6-43f17b449cc0" alt="MSC Screenshot 2" width="800px">
+</p>
 
-  <h3>Rick and Morty</h3>
-  <p style="max-width: 300px; margin: 5px;">It is a SPA that uses React for the Front End and Redux as state management. All components were developed with CSS without the use of external libraries. The SPA consumes data from an API ("The Rick and Morty API") through a Back-End developed in Node.JS using Express, adding new features to the original API. The user can search for a character, filter by gender, sort alphabetically and add to favorites. 
-  <div align="center">
-  <img src="https://github.com/Miliros/Miliros/assets/109630093/3a80df5a-f4de-4ef6-8fa2-9519264c4b79" alt="imagen6" width="900px" style="margin: 5px;" />
-  <img src="https://github.com/Miliros/Miliros/assets/109630093/0d22a876-1f96-4cbe-ac8b-62f22f888c1a" alt="imagen2" width="900px" style="margin: 5px;" />
-   <div> <a href="https://github.com/Miliros/RICK-AND-MORTY" style="color: black;"><strong>link to code</strong></a></p></div>
-</div>
+🔗 [**Link to Code**](https://github.com/AgustinMandarini/MSC-Amoblamientos)
 
- 
+---
 
-</div>
+### 2. **Project Management Platform**
+A web app for managing projects and tasks based on user roles.
+
+- **Frontend:** React, React-Bootstrap, CSS  
+- **Backend:** Express.js, SQL  
+- **Authentication:** JWT, bcrypt
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4274a6b8-c1cf-4ccd-a11d-2ba9d19404d9" alt="Project Screenshot 1" width="800px">
+  <img src="https://github.com/user-attachments/assets/862e33a8-b57c-4ac7-b7df-20e9d09df78b" alt="Project Screenshot 2" width="800px">
+</p>
+
+🔗 [**Link to Code**](https://github.com/Miliros/gestion-de-proyectos)
+
+---
+
+### 3. **Conversational Form**
+Interactive form layout based on a Figma design, with email submission functionality.
+
+- **Technologies:** React, Vite, TypeScript
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/56acb03c-381d-4814-8ea7-ca67c0b30664" alt="Form Screenshot" width="800px">
+</p>
+
+🔗 [**Link to Code**](https://github.com/Miliros/formulario-customer)
+
+---
+
+### 4. **Poke API**
+Single Page Application (SPA) leveraging the Pokémon API for interactive data display.
+
+- **Frontend:** React, Redux, CSS Modules  
+- **Backend:** Node.js, Express, Sequelize (PostgreSQL)
+
+Features:
+- Create, search, filter, and sort Pokémon.
+
+<p align="center">
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/109630093/260585477-be87234c-4869-40f6-b740-96a251eaefba.png" alt="Poke API Screenshot 1" width="800px">
+</p>
+
+🔗 [**Link to Code**](https://github.com/Miliros/PI-POKEMON)
+
+---
+
+### 5. **Rick and Morty**
+SPA with features like searching, filtering, and adding characters to favorites.
+
+- **Frontend:** React, Redux  
+- **Backend:** Node.js, Express
+
+<p align="center">
+  <img src="https://github.com/Miliros/Miliros/assets/109630093/3a80df5a-f4de-4ef6-8fa2-9519264c4b79" alt="Rick and Morty Screenshot" width="800px">
+</p>
+
+🔗 [**Link to Code**](https://github.com/Miliros/RICK-AND-MORTY)
+
+---
+
+##  Let's Connect:
+Feel free to reach out if you'd like to collaborate or learn more about my work.
+
+ **Email:** milagros4046@hotmail.com  
+ **Portfolio:** [milagros-rosales.vercel.app](https://milagros-rosales.vercel.app)
+
 
 
 
