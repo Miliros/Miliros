@@ -45,8 +45,8 @@ A web app for managing projects and tasks based on user roles.
 <p align="center">
    <img src="https://github.com/user-attachments/assets/4274a6b8-c1cf-4ccd-a11d-2ba9d19404d9" alt="imagen3" width="900px" style="margin: 5px;" />
   <img src="https://github.com/user-attachments/assets/862e33a8-b57c-4ac7-b7df-20e9d09df78b" alt="imagen4" width="900px" style="margin: 5px;" />
-  <img src="https://github.com/user-attachments/assets/6ae2b436-c7e5-4f31-b22a-dba101995d0b" alt="imagen4" width="900px" style="margin: 5px;" />
-   <img src="https://github.com/user-attachments/assets/3bcd8b62-0583-4152-9876-0ce16096b558" alt="imagen4" width="900px" style="margin: 5px;" />
+  <img src="https://github.com/user-attachments/assets/fe08cb7c-2f47-4bc3-8902-30de12549c21" alt="imagen4" width="900px" style="margin: 5px;" />
+   <img src="https://github.com/user-attachments/assets/27ee597d-5cf8-4056-9df4-c3b861d8d346" alt="imagen4" width="900px" style="margin: 5px;" />
 </p>
 
 🔗 [**Link to Code**](https://github.com/Miliros/gestion-de-proyectos)
