@@ -17,7 +17,32 @@ Proactive full stack developer with a strong emphasis on front-end development. 
 
 ##  My Projects:
 
-### 1. **MSC Amoblamientos**
+### 1. **The Secret Shop**
+A mobile-first e-commerce project with essential features and a focus on user experience.
+
+- **Frontend:** Next.js, React, Tailwind CSS, TypeScript  
+- **Features:**  
+  - Authentication with basic form validation.  
+  - Shopping cart with persistence via cookies.  
+  - Add and remove products dynamically.  
+  - Fully responsive design (mobile-first).
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6e807ae3-ec81-49aa-bb69-4e9fed47e18a" alt="imagen1" width="900px" style="margin: 5px;" />
+  <img src="https://github.com/user-attachments/assets/8dff847f-e2d6-4a16-aa63-9052741ee754" alt="imagen2" width="900px" style="margin: 5px;" />
+  <img src="https://github.com/user-attachments/assets/a6dd1805-bdbc-4e3a-b172-e6be927808c5" alt="imagen3" width="900px" style="margin: 5px;" />
+    <img src="https://github.com/user-attachments/assets/108f832e-b50a-424e-9ffc-7ba1bde9937f" alt="imagen3" width="900px" style="margin: 5px;" />
+
+</p>
+
+🔗 [**Link to Code**](https://github.com/Miliros/the-secret-shop)
+
+🔗 [**Demo**](https://the-secret-shop.vercel.app/)
+
+
+---
+
+### 2. **MSC Amoblamientos**
 Feature-rich e-commerce platform for furniture shopping, with robust admin tools and user-friendly interfaces.
 
 - **Frontend:** React, Redux, Bootstrap  
@@ -26,7 +51,6 @@ Feature-rich e-commerce platform for furniture shopping, with robust admin tools
 
 <p align="center">
   <img src="https://github.com/Miliros/Miliros/assets/109630093/1778a97c-79cf-4d17-9516-06e9be0eefc2" alt="imagen6" width="900px" style="margin: 5px;" />
-
   <img src="https://github.com/Miliros/Miliros/assets/109630093/29fa53ee-d84c-475d-aac6-43f17b449cc0" alt="imagen8" width="900px" style="margin: 5px;" />
   <img src="https://github.com/Miliros/Miliros/assets/109630093/14bc7931-e365-4f51-9803-199ae12deb7d" width="900px" style="margin: 5px;" />
 </p>
@@ -35,7 +59,7 @@ Feature-rich e-commerce platform for furniture shopping, with robust admin tools
 
 ---
 
-### 2. **Project Management Platform**
+### 3. **Project Management Platform**
 A web app for managing projects and tasks based on user roles.
 
 - **Frontend:** React, React-Bootstrap, CSS  
@@ -53,7 +77,7 @@ A web app for managing projects and tasks based on user roles.
 
 ---
 
-### 3. **Conversational Form**
+### 4. **Conversational Form**
 Interactive form layout based on a Figma design, with email submission functionality.
 
 - **Technologies:** React, Vite, TypeScript
@@ -67,7 +91,7 @@ Interactive form layout based on a Figma design, with email submission functiona
 
 ---
 
-### 4. **Poke API**
+### 5. **Poke API**
 Single Page Application (SPA) leveraging the Pokémon API for interactive data display.
 
 - **Frontend:** React, Redux, CSS Modules  
@@ -85,7 +109,7 @@ Features:
 
 ---
 
-### 5. **Rick and Morty**
+### 6. **Rick and Morty**
 SPA with features like searching, filtering, and adding characters to favorites.
 
 - **Frontend:** React, Redux  
@@ -104,7 +128,6 @@ Feel free to reach out if you'd like to collaborate or learn more about my work.
 
  **Email:** milagros4046@hotmail.com  
  **Portfolio:** [milagros-rosales.vercel.app](https://milagros-rosales.vercel.app)
-
 
 
 
